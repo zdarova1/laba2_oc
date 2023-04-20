@@ -1,0 +1,148 @@
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe SeqMergeSort 10000000 2
+Executing time: 12.1260
+Total time: 15.4580
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 10000000 2
+Executing time: 6.7130
+Total time: 10.0350
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 10000000 4
+Executing time: 3.6520
+Total time: 6.9830
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 4
+Executing time: 45.1800
+Total time: 78.6930
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 2
+Executing time: 79.0360
+Total time: 112.8250
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 8
+Executing time: 27.1020
+Total time: 60.3250
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 16
+Executing time: 22.5090
+Total time: 55.7270
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 32
+Executing time: 23.6510
+Total time: 57.1070
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 64
+Executing time: 23.4250
+Total time: 56.8090
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 128
+Executing time: 24.2530
+Total time: 57.6930
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort1 100000000 256
+Executing time: 24.4860
+Total time: 57.8270
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 2
+Executing time: 38.9610
+Total time: 72.4040
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 4
+Executing time: 41.0810
+Total time: 74.3500
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 8
+Executing time: 19.0620
+Total time: 52.3200
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 16
+Executing time: 19.7950
+Total time: 53.0590
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 32
+Executing time: 19.4180
+Total time: 52.6870
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 64
+Executing time: 19.6330
+Total time: 53.1030
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 128
+Executing time: 18.9440
+Total time: 52.3400
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort2 100000000 256
+Executing time: 19.6130
+Total time: 53.1000
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 2
+Executing time: 77.4940
+Total time: 110.8630
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 4
+Executing time: 54.8030
+Total time: 88.0960
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 8
+Executing time: 30.1150
+Total time: 63.3650
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 16
+Executing time: 26.1860
+Total time: 71.1610
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 32
+Executing time: 26.9140
+Total time: 71.7020
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 64
+Executing time: 27.5890
+Total time: 72.4740
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ParMergeSort3 100000000 128
+Executing time: 27.2250
+Total time: 72.3070
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe ComplexVecSum 100000000 128
+
+Total time: 45.1480
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSum 100000000 128
+Executing time: 0.8290
+Total time: 45.8990
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumPar 100000000 2
+Executing time: 0.5850
+Total time: 45.5860
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumPar 100000000 4
+Executing time: 0.3850
+Total time: 45.4070
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumPar 100000000 8
+Executing time: 0.2940
+Total time: 45.2380
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumPar 100000000 16
+Executing time: 0.2880
+Total time: 45.1380
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumPar 100000000 32
+Executing time: 0.2850
+Total time: 45.2110
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimd 100000000 32
+Executing time: 0.6720
+Total time: 45.5670
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimdPar 100000000 2
+Executing time: 0.2280
+
+Total time: 45.1390
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimd 100000000 2
+Executing time: 0.6640
+Total time: 45.5310
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimdPar 100000000 4
+Executing time: 0.2130
+
+Total time: 45.1940
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimdPar 100000000 8
+Executing time: 0.2360
+
+Total time: 45.4520
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecSumSimdPar 100000000 16
+Executing time: 0.2230
+
+Total time: 45.3420
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMul 100000000 1
+Executing time: 1.3260
+Total time: 46.7300
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulPar 100000000 2
+Executing time: 0.3600
+
+Total time: 45.6080
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulPar 100000000 4
+Executing time: 0.3670
+
+Total time: 45.4740
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulPar 100000000 8
+Executing time: 0.3630
+
+Total time: 45.6470
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulSimdPar 100000000 2
+Executing time: 0.3080
+
+Total time: 45.4370
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulSimdPar 100000000 4
+Executing time: 0.3160
+
+Total time: 45.2450
+C:\Users\LEGION\Downloads\laba2_oc-master\laba2_oc-master>main.exe complexVecMulSimdPar 100000000 8
+Executing time: 0.3110
+
+Total time: 45.4190
